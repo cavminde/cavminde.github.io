@@ -720,13 +720,13 @@ audio:not([controls]) {
 a {
     background-color:transparent;
     text-decoration:none;
-    cursor:url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cursor/ayuda.cur),auto
+    cursor:url(../images/extra/Feather.cur)),auto
 }
 a:active,a:hover {
     outline:0
 }
 a:active {
-    cursor:url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cursor/work.cur),alias
+    cursor:url(../images/extra/Pickaxe.cur),alias
 }
 abbr[title] {
     border-bottom:1px dotted
@@ -847,7 +847,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 p {
     margin-bottom:1.5em;
-    cursor:url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cursor/texto.cur),auto
+    cursor:url(../images/extra/Stick.cur),auto
 }
 dfn,cite,em,i {
     font-style:italic
@@ -933,7 +933,7 @@ html {
 body {
     background:#fff;
     background-attachment:fixed;
-    cursor:url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cursor/normal.cur),auto
+    cursor:url(../images/extra/DiamondSword.cur),auto
 }
 blockquote:before,blockquote:after,q:before,q:after {
     content:""
